@@ -62,13 +62,6 @@ Used Pandas to prepare the dataset for analysis:
 
 Python | Pandas | Data Cleaning | Data Transformation | MySQL | SQL | Database Connectivity | Power BI | Data Visualization | ETL Workflow
 
-📁 Project Files
-
-- "data_cleaning.ipynb" — Python and Pandas data cleaning.
-- "sql_queries.sql" — SQL queries used in the project.
-- "dashboard.pbix" — Power BI dashboard file.
-- "README.md" — Project documentation.
-
 
 👨‍💻 Author
 
